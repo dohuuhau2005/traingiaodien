@@ -14,7 +14,7 @@
         android:layout_height="49dp"
 
         android:layout_marginTop="16dp"
-        android:background="#6A6A6A"
+        android:background="#ADABAB"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.428"
         app:layout_constraintStart_toStartOf="parent"
